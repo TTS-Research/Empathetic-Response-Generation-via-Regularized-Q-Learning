@@ -51,11 +51,14 @@ python3 app.py
 ngrok http 5000
 ```
 **Step 3.** Copy the link.
+
 ![](https://i.imgur.com/4bl0Zv8.png)
 
 **Step 4.** Paste the copied link at `Webhook URL` in `Messaging API` part, and attach `/callback` behind then update and verify if it is successful or not.
+
 ![](https://i.imgur.com/yrGVfrg.png)
 
 **Step 5.** Beging to use the LINE Bot.
+
 ![](https://i.imgur.com/spM9bAI.png)
 
