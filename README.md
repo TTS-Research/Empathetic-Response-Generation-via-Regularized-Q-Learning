@@ -1,4 +1,3 @@
-# Readme
 This is the PyTorch implementation for "Empathetic Response Generation via Regularized Q-Learning".
 
 <!-- This study presents  -->
