@@ -2,7 +2,7 @@ This is the PyTorch implementation for "Empathetic Response Generation via Regul
 
 <!-- This study presents  -->
 
-## Envionment Setup
+## Environment Setup
 - Install the required packaged
 ```bash
 pip install -r requirements.txt
