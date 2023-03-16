@@ -1,0 +1,12 @@
+transformers
+torch
+pandas
+seaborn
+numpy
+tqdm
+torchtext
+torcheval
+flask
+line-bot-sdk
+opencc
+cnsenti
