@@ -25,6 +25,8 @@ python3 test.py --model_path ./runs/train/exp31/models/latest.pth --beam 5
 - arguments:
      - `--model_path`: the path of the testing model you store
      - `--beam`: the number of candidate responses
+     
+ - for quick start, you can download trained model from [here](https://drive.google.com/drive/folders/1fBHqwh5pVsFoE1XMnUfgusRnt06ZzHeQ?usp=share_link), and put it in the `./runs/train` file.
 
 ## LINE Bot Setup
 **Step 1.** Create a new project.
