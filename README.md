@@ -28,11 +28,17 @@ python3 test.py --model_path ./runs/train/exp31/models/latest.pth --beam 5
 
 ## LINE Bot Setup
 **Step 1.** Create a new project.
+
 **Step 2.** Select `Create a Messaging API channel` and fill in the needed info.
+
 **Step 3.** In `Messaging API`, `Bot basic ID` and`QR code` are 2 ways to add users on LINE.
+
 **Step 4.** Disable the function of `Auto-reply messages` and enable the `Webhook` function.
+
 ![](https://i.imgur.com/XhnkAEK.png)
+
 **Step 5.** Get the `Channel secret` and the `user ID` in `Basic settings` part, and the `Channel access token` in `Messaging API` part. Then paste them into the `app.py` file.
+
 ![](https://i.imgur.com/impSFsA.png)
 
 
